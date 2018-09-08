@@ -57,4 +57,18 @@ The silence of the inocents
 - Paranormal Activity
 
 
+# Top Ten Sexy Actresses
 
+Name | Born
+------ | ----
+Scarlett Johansson | 1984
+Salma Hayek | 1966
+Megan Fox | 1986
+Brooke Shields | 1965
+Kim Basinger | 1953
+Sharon Stone | 1958
+Angelina Jolie | 1975
+Demi Moore | 1962
+Bo Derek | 1956
+Marilyn Monroe | 1962
+María Felix | 1913
