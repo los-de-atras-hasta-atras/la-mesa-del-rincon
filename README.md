@@ -34,16 +34,16 @@ Timecop | 1994
 
 #Top ten
 
-Twilight Zone
-panico in the heights
-the village
-five days to get revenge
-27 hours
-Annibal
-5 days to venagrse
-8 supernatural
-the others
-The silence of the inocents
+- Twilight Zone
+- panico in the heights
+- the village
+- five days to get revenge
+- 27 hours
+- Annibal
+- 5 days to venagrse
+- 8 supernatural
+- the others
+- The silence of the inocents
 
 ## Top Ten Horror Movies
 - Screen
@@ -57,6 +57,7 @@ The silence of the inocents
 - Get Out
 - Paranormal Activity
 
+
 # top Ten Science fiction
 1. Avatar
 2. Srtar Wars
@@ -68,4 +69,29 @@ The silence of the inocents
 8. Prometeo
 9. Matrix
 10. ET (the estraterrestre)
+
+#Top Ten Actors 
+- Tom Hanks
+- Johnny Depp
+- Jack Nicholson 
+- Robert DeNiro 
+- Leonardo Di Caprio 
+- Al Pacino 
+- Marlon Brando
+- Morgan Freeman
+- Daniel Day Lewis
+- Will Smith
+ 
+# Top Ten Romantics Movies
+- Love history
+- When Harry met Sally
+- Love Actully
+- Notebook
+- Titanic
+- Pretty Woman
+- Sleepless
+- Notthing Hill
+- Dirty Dance
+- Amelie
+
 
