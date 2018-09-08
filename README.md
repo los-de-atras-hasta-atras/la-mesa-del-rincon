@@ -57,4 +57,16 @@ The silence of the inocents
 - Paranormal Activity
 
 
+#Top Ten Actors 
 
+- Tom Hanks
+- Johnny Depp
+- Jack Nicholson 
+- Robert DeNiro 
+- Leonardo Di Caprio 
+- Al Pacino 
+- Marlon Brando
+- Morgan Freeman
+- Daniel Day Lewis
+- Will Smith
+ 
