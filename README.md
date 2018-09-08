@@ -58,7 +58,6 @@ Timecop | 1994
 
 
 #Top Ten Actors 
-
 - Tom Hanks
 - Johnny Depp
 - Jack Nicholson 
@@ -70,3 +69,15 @@ Timecop | 1994
 - Daniel Day Lewis
 - Will Smith
  
+# Top Ten Romantics Movies
+- Love history
+- When Harry met Sally
+- Love Actully
+- Notebook
+- Titanic
+- Pretty Woman
+- Sleepless
+- Notthing Hill
+- Dirty Dance
+- Amelie
+
