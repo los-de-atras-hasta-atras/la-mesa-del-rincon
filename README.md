@@ -33,16 +33,16 @@ Timecop | 1994
 
 #Top ten
 
-Twilight Zone
-panico in the heights
-the village
-five days to get revenge
-27 hours
-Annibal
-5 days to venagrse
-8 supernatural
-the others
-The silence of the inocents
+- Twilight Zone
+- panico in the heights
+- the village
+- five days to get revenge
+- 27 hours
+- Annibal
+- 5 days to venagrse
+- 8 supernatural
+- the others
+- The silence of the inocents
 
 ## Top Ten Horror Movies
 - Screen
@@ -57,4 +57,16 @@ The silence of the inocents
 - Paranormal Activity
 
 
+#Top Ten Actors 
 
+- Tom Hanks
+- Johnny Depp
+- Jack Nicholson 
+- Robert DeNiro 
+- Leonardo Di Caprio 
+- Al Pacino 
+- Marlon Brando
+- Morgan Freeman
+- Daniel Day Lewis
+- Will Smith
+ 
